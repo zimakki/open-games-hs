@@ -1,5 +1,8 @@
 # Open games in Haskell
 
+[![Open in MiPasa](https://app.mipasa.org/github-badge.svg)](https://papillon.expert/projects/github/jules-hedges/open-games-hs/master)
+
+
 This is a Haskell combinator library implementing open games, a battery of examples, and a code generation tool for making the combinator library practical to work with.
 
 This tool allows modular definition of games, and then checking (but not computing) different types of Nash equilibria. After entering a non-equilibrium, the tool can generate detailed information about deviations.
